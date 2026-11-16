@@ -3,4 +3,4 @@ belajar nodejs
 belajar java
 tambah belajar tailwind
 belajar laravel
-materi dasar struktur data
+belajar anggular
