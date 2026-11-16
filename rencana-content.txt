@@ -4,3 +4,5 @@ belajar java
 tambah belajar tailwind
 belajar laravel
 materi dasar struktur data
+tambah dari fitur 1
+tambah 2 commit
