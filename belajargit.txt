@@ -1,0 +1,3 @@
+Belajar Github Dari dasar
+-belajar secara konsisten
+-belajar mengelola git
