@@ -1,3 +1,5 @@
 belajar javascript
 belajar nodejs
 belajar java
+tambah belajar tailwind
+belajar laravel
